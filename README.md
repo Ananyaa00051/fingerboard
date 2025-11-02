@@ -1,6 +1,6 @@
 
 
-# 🖐️  Fingeroard
+# 🖐️  Fingerboard
 
 A real-time **gesture-controlled virtual whiteboard** built using **MediaPipe, OpenCV, and PyQt5**.
 Draw, write, and select shapes **using just your hand — no mouse, no stylus, no touchscreen!**
